@@ -29,7 +29,7 @@ class Database extends Config
         'hostname'     => 'localhost',
         'username'     => 'presensiapeldinsos',
         'password'     => '7(DRvcd8s5x8)TKL3)',
-        'database'     => 'presensiapeldinsos',
+        'database'     => 'presensiapeldinsos_db',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
