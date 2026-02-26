@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'welcome-record-wov',
-        'password'     => 'iacEa71gBEU)1+33S)',
-        'database'     => 'awelcome_record_wov_db',
+        'username'     => 'presensiapeldinsos',
+        'password'     => '7(DRvcd8s5x8)TKL3)',
+        'database'     => 'presensiapeldinsos',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
